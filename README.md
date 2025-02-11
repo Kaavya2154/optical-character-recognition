@@ -16,10 +16,8 @@ Tesseract v4+ (which this project uses) relies on a Long Short-Term Memory (LSTM
 
 ---
 
-## 🛠️ Technologies Used
 | Library     | Purpose |
 |-------------|---------|
-| **Python**  | Main programming language |
 | **OpenCV (`cv2`)**  | Image processing and enhancement |
 | **Pytesseract (`pytesseract`)**  | Python wrapper for Tesseract OCR |
 | **Pillow (`PIL`)**  | Image handling and conversion |
